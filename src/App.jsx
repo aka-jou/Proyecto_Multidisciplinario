@@ -1,11 +1,12 @@
 import React from 'react'
-import FirstSection from './Organismes/First.section'
+import Home from './Pages/Home'
+import Solicitud from './Pages/Solicitud'
 
 
 function App() {
   return (
     <div>
-    <FirstSection/>
+    <Solicitud/>
 
     </div>
 
