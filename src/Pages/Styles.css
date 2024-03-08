@@ -14,24 +14,6 @@ form {
   margin: 0 auto;
 }
 
-label {
-  display: block;
-  margin-bottom: 10px;
-}
-
-input,
-textarea {
-  width: 100%;
-  padding: 10px;
-  border: 1px solid #ccc;
-}
-
-input[type="submit"] {
-  background-color: #000;
-  color: #fff;
-  cursor: pointer;
-}
-
 .error {
   color: red;
 }
@@ -59,19 +41,6 @@ input[type="submit"] {
 }
 
 .p {
-  color: #000;
-}
-.input-nom {
-  position: absolute;
-  display: flex;
-
-  width: 635px;
-  height: 80px;
-  left: 333px;
-  top: 307px;
-
-  background: #d9d9d9;
-  border-radius: 50px;
   color: #000;
 }
 
@@ -252,29 +221,4 @@ input[type="submit"] {
   background: #d9d9d9;
   border-radius: 50px;
   color: #000;
-}
-
-.send {
-  position: absolute;
-  width: 380px;
-  height: 90px;
-  left: 465px;
-  top: 2408px;
-  background-color: #89aa01;
-}
-
-.img7 {
-  position: absolute;
-  display: flex;
-  justify-items: flex-end;
-  align-items: flex-end;
-  width: 768px;
-  height: 541px;
-  left: 743px;
-  top: 626px;
-}
-
-.info-1 {
-  margin: 10px;
-  padding: 0%;
 }

@@ -1,0 +1,33 @@
+.info-1{
+    width: 80%;
+    display: flex;
+}
+.img7 {
+   margin-left: 40px;
+    width: 50%;
+    height: auto;
+   
+    
+  }
+
+  .InfoContainer{
+display: flex;
+justify-content: center;
+margin-top: 80px;
+  }
+
+  .info{
+    font-size: 24px;
+    color: black;
+    margin: 0%;
+  }
+  .title{
+    font-weight: bold;
+    font-size: 30px;
+    color: #89aa01;
+
+  }
+
+
+  
+  
