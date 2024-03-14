@@ -1,5 +1,5 @@
 import React from "react";
-import './file.css'
+import './File.css'
 function Text(){
     return(
         

@@ -10,6 +10,7 @@
     align-items: center;
 
 }
-.imgIniciSecion{height: 100%;
+.imgIniciSecion{
+    height: 100%;
     display: flex;
     align-items: center;}

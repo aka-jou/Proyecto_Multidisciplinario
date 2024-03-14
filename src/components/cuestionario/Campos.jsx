@@ -1,10 +1,10 @@
 import React from "react";
-import './campos.css'
-function Campos(props){
+import './Campos.css'
+function CamposX(props){
     return(
        
             <input className="campos" type={props.type} placeholder={props.Info} />
         
     );
 }
-export default Campos;
+export default CamposX;

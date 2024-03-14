@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import InfoContainer from "../Organismes/infoContainer";
-import NavbarX from "../Atoms/Navbar";
+import InfoContainer from "../components/InfoContainer";
+import NavbarX from "../components/Navbar";
 import reclu from "../assets/reclu.jpg";
-import Cuestionario from "../Organismes/cuestionario";
+import CuestionarioX from "../components/Cuestionario";
 import "../Pages/Styles.css";
 
 function Solicitud() {
@@ -25,7 +25,7 @@ function Solicitud() {
       
       <InfoContainer/>
       
-      <Cuestionario/>
+      <CuestionarioX/>
       
     </div>
   );

@@ -1,6 +1,6 @@
 import React from 'react'
 import cfe from '../assets/cfe.jpg'
-import '../Atoms/Styles.atoms.css'
+import '../components/Styles.atoms.css'
 import acciona from '../assets/acciona.jpg'
 
 function Asosiation() {
