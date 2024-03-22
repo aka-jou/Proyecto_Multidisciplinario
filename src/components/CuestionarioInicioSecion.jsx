@@ -1,7 +1,8 @@
 import React from "react";
 import InputIniciSecion from '../components/InputInicioSesion'
-import '../components/CuestionarioInicioSecion'
 import { Link } from "react-router-dom";
+import '../components/CuestionarioInicioSecion.css'
+
 function CuestionarioIniciSecion(){
     return(
         <div  className="CuestionarioIniciSecion">

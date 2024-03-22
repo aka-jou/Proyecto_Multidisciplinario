@@ -1,7 +1,7 @@
 import React from "react";
 import CuestionarioIniciSecion from '../components/CuestionarioInicioSecion'
 import logo from '../assets/logo.jpg'
-import '../Pages/IniciSesion.css'
+import '../Pages/InicioSesion.css'
 function IniciSesion(){
     return(
         <div className="boxIniciSecion">

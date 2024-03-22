@@ -1,0 +1,32 @@
+.Solicitantes{
+    display: flex;
+    align-items: center;
+    
+    width: 100%;
+    border-style: solid;
+    border-left: 4px;
+    border-color: white;
+}
+p{
+    color: white;
+    font-size: 20px;
+    margin: 0%;
+}
+.Name{
+    display: flex;
+  
+}
+.genero{
+    margin-top: 20px;
+}
+.eage{ 
+    margin-left: 10px;
+    
+    
+}
+.correo{
+margin-top: 20px;
+}
+.info{
+    margin-left: 100px;
+}
