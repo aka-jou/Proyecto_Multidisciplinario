@@ -13,10 +13,10 @@ function CuestionarioX() {
 
   return (
     <div className="Cuestionario">
-      <Button variant="primary" onClick={handleShow}>
+      <Button className="RegistrateAquiBoton" variant="primary" onClick={handleShow}>
         Registrarse aquí
       </Button>
-
+      
       <Modal
         show={show}
         onHide={handleClose}
@@ -37,6 +37,8 @@ function CuestionarioX() {
           <Button variant="primary">Enviar</Button>
         </Modal.Footer>
       </Modal>
+      
+      
     </div>
   );
 }

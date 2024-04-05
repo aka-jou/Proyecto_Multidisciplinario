@@ -5,7 +5,7 @@ function InfoContainer(){
     return(
         <div className="InfoContainer">
             <div className="info-1">
-                <div>
+                <div className="BoxInfo">
                 <h2 className="title">
           ¡Únete a nuestro equipo y construyamos juntos el futuro!
         </h2>
@@ -14,8 +14,11 @@ function InfoContainer(){
           profesionalmente?
         </p>
         <p className="info">
-          En Eolic Power, creemos que el talento es la clave del éxito. <br />
-          Por eso, buscamos personas como tú, con talento, compromiso y
+          En Eolic Power, creemos que el talento es la clave del éxito. 
+          
+        </p>
+        <p className="info">
+        Por eso, buscamos personas como tú, con talento, compromiso y
           ganas de formar parte de una empresa en constante crecimiento.
         </p>
                 </div>
