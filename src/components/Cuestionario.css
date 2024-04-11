@@ -5,14 +5,22 @@
     display: flex;
     justify-content: center;
 }
+.RegistrateAquiBoton{
+    width: 150px;
+    height: 50px;
+    background-color: #89aa01;
+    border-style: none;
+    color: white;
+    font-size: 18px;
+}
+.RegistrateAquiBoton:hover{
+    background-color:white ;
+    color: #89aa01;
+    border-style: solid;
+    border-color: #89aa01;
+}
 .containerCuestionario{
-   width: 80%;
-   background-color: #606060;
-   padding: 20px 60px;
-   border-radius: 90px;
-   display: flex;
-   flex-direction: column;
-   align-items: center;
+  
 }
 .ContainerFile{
     display: flex;
@@ -21,7 +29,7 @@
 }
 
 .modal{
-    display: flex;
+   
     justify-content: center;
     align-items: center;
 }

@@ -5,10 +5,12 @@ import Info from './Info'
 import Reclutamient from './Reclutamient'
 import Asosiation from './Asosiation'
 import Footer from './Footer'
+import './FirstSection.css'
+
 
 function FirstSection() {
   return (
-    <div>
+    <div className='containerHome'>
     <NavbarX/>
     <ImgX/>
     <Info/>
